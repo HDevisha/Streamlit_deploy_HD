@@ -1,7 +1,7 @@
 appdirs==1.4.4
 atomicwrites==1.4.0
 brotlipy==0.7.0
-clyent==1.2.2
+clyent==1.2.1
 conda==23.7.4
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
